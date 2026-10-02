@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Wallahifakesmp.aternos.me:46113",
+    "ip": "Wallahifakesmp.aternos.me",
     "port": 46113,
     "version": "26.2",
     "try-creative": false
